@@ -1,6 +1,6 @@
 {
-  "versionCode": 99,
+  "versionCode": 7,
   "versionName": "1.6",
   "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.6/zhumian_v1.6.apk",
-  "releaseNotes": "临时测试更新通道，稍后还原"
+  "releaseNotes": "白熊助眠 v1.6：修复自动更新——强制 CDN 回源、多通道取最高版本、分块断点续传、进度条与安装权限引导"
 }
