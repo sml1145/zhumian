@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.4/zhumian_v1.4.apk",
-  "releaseNotes": "白熊助眠 v1.4：首页改为「正在播放」列表，音效选择统一移入音效库（含内置音效与自定义音效）"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.5/zhumian_v1.5.apk",
+  "releaseNotes": "白熊助眠 v1.5：新增内置音效「深夜私语」；修复自动更新（每次进入自动检测、进度条、断点下载与安装权限引导）"
 }
