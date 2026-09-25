@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.0/zhumian_v1.0.apk",
-  "releaseNotes": "白熊助眠 v1.0 首次发布"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.1/zhumian_v1.1.apk",
+  "releaseNotes": "白熊助眠 v1.1：修复雨声无声、梦话检测闪退；定时改为指定结束时刻；支持自定义上传白噪音；新增5种内置音效；更新应用图标"
 }
