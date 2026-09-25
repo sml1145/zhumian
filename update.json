@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.3/zhumian_v1.3.apk",
-  "releaseNotes": "白熊助眠 v1.3：修复梦话检测权限闪退与录音炸麦（需连接耳机）、修复多音效混音压音、自定义音效支持多首持久化、更新检测多通道加速"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.4/zhumian_v1.4.apk",
+  "releaseNotes": "白熊助眠 v1.4：首页改为「正在播放」列表，音效选择统一移入音效库（含内置音效与自定义音效）"
 }
