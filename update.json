@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.6/zhumian_v1.6.apk",
-  "releaseNotes": "白熊助眠 v1.6：修复自动更新——强制 CDN 回源、多通道取最高版本、分块断点续传、进度条与安装权限引导"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.7/zhumian_v1.7.apk",
+  "releaseNotes": "白熊助眠 v1.7：1.修复音效库分类点击卡住闪退，所有音效分类均可正常下载与播放；2.新增星空白熊开屏动画；3.结束播放改为暂停，保留正在播放列表，可一键恢复。"
 }
