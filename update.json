@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.7/zhumian_v1.7.apk",
-  "releaseNotes": "白熊助眠 v1.7：1.修复音效库分类点击卡住闪退，所有音效分类均可正常下载与播放；2.新增星空白熊开屏动画；3.结束播放改为暂停，保留正在播放列表，可一键恢复。"
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v1.8/zhumian_v1.8.apk",
+  "releaseNotes": "白熊助眠 v1.8：1.正在播放中长按任意音效，可单独调整该音效音量；2.梦话检测移至「梦话记录」页，需连接耳机使用；3.优化梦话录音，更换干声采集源并加入软限幅，改善炸麦；4.音效库点击改为试听，点右侧「添加」才会加入正在播放；5.新增「方案」功能，可保存音效组合并一键播放；6.新增「采耳」音效分类（棉签采耳、揉按耳朵、音叉共振）；7.新增获取码，输入 walmt 可解锁「深夜私语」。"
 }
