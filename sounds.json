@@ -102,6 +102,12 @@
    "name": "其他",
    "count": 2,
    "size": 2077485
+  },
+  {
+   "id": "caier",
+   "name": "采耳",
+   "count": 3,
+   "size": 974199
   }
  ],
  "sounds": [
@@ -604,6 +610,21 @@
    "id": "1900",
    "name": "卧室挂钟",
    "pack": "other"
+  },
+  {
+   "id": "9001",
+   "name": "棉签采耳",
+   "pack": "caier"
+  },
+  {
+   "id": "9002",
+   "name": "揉按耳朵",
+   "pack": "caier"
+  },
+  {
+   "id": "9003",
+   "name": "音叉共振",
+   "pack": "caier"
   }
  ]
 }
