@@ -108,6 +108,12 @@
    "name": "采耳",
    "count": 3,
    "size": 974199
+  },
+  {
+   "id": "piano",
+   "name": "舒缓助眠钢琴",
+   "count": 7,
+   "size": 6057142
   }
  ],
  "sounds": [
@@ -625,6 +631,13 @@
    "id": "9003",
    "name": "音叉共振",
    "pack": "caier"
-  }
+  },
+  { "id": "212938", "name": "静谧钢琴旋律", "pack": "piano" },
+  { "id": "110215", "name": "舒缓钢琴小曲", "pack": "piano" },
+  { "id": "554602", "name": "轻柔钢琴", "pack": "piano" },
+  { "id": "869196", "name": "钢琴持续音", "pack": "piano" },
+  { "id": "759015", "name": "空灵钢琴", "pack": "piano" },
+  { "id": "592782", "name": "夜晚放松钢琴", "pack": "piano" },
+  { "id": "421736", "name": "樱花钢琴", "pack": "piano" }
  ]
 }
