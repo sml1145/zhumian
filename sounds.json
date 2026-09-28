@@ -114,6 +114,12 @@
    "name": "舒缓助眠钢琴",
    "count": 7,
    "size": 6057142
+  },
+  {
+   "id": "school",
+   "name": "上学",
+   "count": 3,
+   "size": 2058375
   }
  ],
  "sounds": [
@@ -632,12 +638,55 @@
    "name": "音叉共振",
    "pack": "caier"
   },
-  { "id": "212938", "name": "静谧钢琴旋律", "pack": "piano" },
-  { "id": "110215", "name": "舒缓钢琴小曲", "pack": "piano" },
-  { "id": "554602", "name": "轻柔钢琴", "pack": "piano" },
-  { "id": "869196", "name": "钢琴持续音", "pack": "piano" },
-  { "id": "759015", "name": "空灵钢琴", "pack": "piano" },
-  { "id": "592782", "name": "夜晚放松钢琴", "pack": "piano" },
-  { "id": "421736", "name": "樱花钢琴", "pack": "piano" }
+  {
+   "id": "212938",
+   "name": "静谧钢琴旋律",
+   "pack": "piano"
+  },
+  {
+   "id": "110215",
+   "name": "舒缓钢琴小曲",
+   "pack": "piano"
+  },
+  {
+   "id": "554602",
+   "name": "轻柔钢琴",
+   "pack": "piano"
+  },
+  {
+   "id": "869196",
+   "name": "钢琴持续音",
+   "pack": "piano"
+  },
+  {
+   "id": "759015",
+   "name": "空灵钢琴",
+   "pack": "piano"
+  },
+  {
+   "id": "592782",
+   "name": "夜晚放松钢琴",
+   "pack": "piano"
+  },
+  {
+   "id": "421736",
+   "name": "樱花钢琴",
+   "pack": "piano"
+  },
+  {
+   "id": "869656",
+   "name": "老师讲课",
+   "pack": "school"
+  },
+  {
+   "id": "318615",
+   "name": "翻书声",
+   "pack": "school"
+  },
+  {
+   "id": "513938",
+   "name": "铅笔写字",
+   "pack": "school"
+  }
  ]
 }
