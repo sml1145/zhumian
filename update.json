@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v2.0/zhumian_v2.0.apk",
-  "releaseNotes": "白熊助眠 v2.0：1.新增「上学」分类（老师讲课、翻书声、铅笔写字）；2.首页新增「清空列表」按钮，一键清空正在播放；3.背景升级为缓慢流动的精致动态星空；4.「春宵一刻」获取码统一为 walmt（与深夜私语相同），后续内置音源默认获取码均为 walmt，可反复输入同一码解锁新增音源。"
+  "versionCode": 12,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v2.1/zhumian_v2.1.apk",
+  "releaseNotes": "白熊助眠 v2.1：1.去除首页「正在播放」字样（功能不变）；2.播放白噪音时在手机状态栏显示音乐风格通知，可直接在通知上暂停/继续播放，并支持后台播放。"
 }
