@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v2.1/zhumian_v2.1.apk",
-  "releaseNotes": "白熊助眠 v2.1：1.去除首页「正在播放」字样（功能不变）；2.播放白噪音时在手机状态栏显示音乐风格通知，可直接在通知上暂停/继续播放，并支持后台播放。"
+  "versionCode": 13,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v2.2/zhumian_v2.2.apk",
+  "releaseNotes": "白熊助眠 v2.2：状态栏升级为酷狗音乐式简约播放器——播放时显示白熊大封面、当前播放内容名称（单个声音名 / 多个显示「N 种白噪音」）、播放/暂停按钮与进度条，可直接在通知上控制播放，支持后台播放。"
 }
