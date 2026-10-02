@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v2.3/zhumian_v2.3.apk",
-  "releaseNotes": "白熊助眠 v2.3：1) 安装后自动下载音效库全部 20 个分类白噪音，开箱即用；2) 每次更新后自动检查并补下新增音效，已下载的不会重复下载；3) 首页按钮重新布局：清空列表在左、方案居中、添加方案在右；4) 状态栏播放器全面加固：白熊大封面、当前播放名称、可拖动进度条与播放/暂停/停止/音效库控制，后台播放更稳定。"
+  "versionCode": 15,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/sml1145/zhumian/releases/download/v2.4/zhumian_v2.4.apk",
+  "releaseNotes": "白熊助眠 v2.4：1) 状态栏播放器升级——折叠状态也显示封面与标题，不再有大小图标叠加，新增自定义折叠/展开布局（展开含大封面、进度条、停止/播放/音效库），Android 13+ 系统媒体控制同步显示大封面播放器；2) 梦话记录页新增「反馈」按钮，点击弹出作者微信二维码，使用过程中遇到任何 bug 都可扫码添加微信反馈。"
 }
